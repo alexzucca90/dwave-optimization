@@ -1,0 +1,5 @@
+---
+fixes:
+  - |
+    Fix signature of ``NumberNode::get_value`` and accept a 
+    ``const State&`` instead of a ``State&``.
